@@ -67,6 +67,7 @@ Se generan dos materiales:
 
 Se crean paredes laterales mediante un ciclo.
 
+<img width="945" height="648" alt="image" src="https://github.com/user-attachments/assets/1927bc5d-e85d-400c-9b06-b7471b472a1f" />
 
 ##  Paso 4: Generación del tramo curvo
 
@@ -162,6 +163,7 @@ generar_escenario()
 
 #  Resultado
 
+<img width="411" height="682" alt="image" src="https://github.com/user-attachments/assets/94825b72-29d7-4aeb-bc6f-1d043358f45e" />
 
 Se obtiene:
 
