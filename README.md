@@ -162,6 +162,7 @@ generar_escenario()
 ```
 
 #  Resultado
+<img width="1332" height="687" alt="image" src="https://github.com/user-attachments/assets/e3cb1ab4-8b5c-4f8e-ba40-6dfbc0928d68" />
 
 <img width="411" height="682" alt="image" src="https://github.com/user-attachments/assets/94825b72-29d7-4aeb-bc6f-1d043358f45e" />
 
